@@ -173,5 +173,15 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
 # large data files
 uk_pv_30_minute_data.parquet
